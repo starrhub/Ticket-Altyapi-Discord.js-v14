@@ -1,18 +1,18 @@
 {
-    "name": "durum-rol-bot",
+    "name": "durum-rol-altyapi",
     "version": "1.0.0",
-    "description": "Discord Durum Rol Sistemi",
-    "main": "index.js",
+    "description": "Durum Rol Altyapı - Discord.js v14",
+    "main": "starr.js",
     "scripts": {
-      "start": "node index.js"
+      "start": "node starr.js"
     },
     "keywords": [
       "discord",
       "bot",
-      "status",
-      "role"
+      "durum",
+      "rol"
     ],
-    "author": "Sizin Adınız",
+    "author": "Starr",
     "license": "MIT",
     "dependencies": {
       "discord.js": "^14.11.0"
