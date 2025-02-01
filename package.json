@@ -1,7 +1,7 @@
 {
-    "name": "durum-rol-altyapi",
+    "name": "ticket-altyapi",
     "version": "1.0.0",
-    "description": "Durum Rol Altyapı - Discord.js v14",
+    "description": "Ticet Altyapı - Discord.js v14",
     "main": "starr.js",
     "scripts": {
       "start": "node starr.js"
@@ -9,14 +9,17 @@
     "keywords": [
       "discord",
       "bot",
-      "durum",
-      "rol"
+      "ticket"
     ],
     "author": "Starr",
     "license": "MIT",
     "dependencies": {
       "discord.js": "^14.11.0"
     },
+     "repository": {
+      "type": "git",
+      "url": "https://github.com/starrhub/Ticket-Altyapi-Discord.js-v14"
+   },
     "engines": {
       "node": ">=16.9.0"
     }
