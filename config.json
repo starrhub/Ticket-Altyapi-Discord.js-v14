@@ -1,0 +1,12 @@
+{
+    "token": "BOT_TOKEN",
+    "clientId": "BOT_ID",
+    "guildId": "SUNUCU_ID",
+    "ticketParent": "TICKET_KATEGORI_ID",
+    "staffRoles": ["YETKILI_ROL_ID", "YETKILI_ROL_ID"],
+    "embedColor": "#2f3136",
+    "ticketLog": {
+        "enabled": true,
+        "channelId": "LOG_KANAL_ID"
+    }
+}

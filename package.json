@@ -1,0 +1,23 @@
+{
+    "name": "durum-rol-bot",
+    "version": "1.0.0",
+    "description": "Discord Durum Rol Sistemi",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "keywords": [
+      "discord",
+      "bot",
+      "status",
+      "role"
+    ],
+    "author": "Sizin Adınız",
+    "license": "MIT",
+    "dependencies": {
+      "discord.js": "^14.11.0"
+    },
+    "engines": {
+      "node": ">=16.9.0"
+    }
+  }
