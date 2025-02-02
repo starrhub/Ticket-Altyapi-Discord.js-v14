@@ -1,7 +1,7 @@
 {
     "name": "ticket-altyapi",
     "version": "1.0.0",
-    "description": "Ticet Altyapı - Discord.js v14",
+    "description": "Ticket Altyapı - Discord.js v14",
     "main": "starr.js",
     "scripts": {
       "start": "node starr.js"
